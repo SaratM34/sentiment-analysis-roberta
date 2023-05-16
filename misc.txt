@@ -1,0 +1,30 @@
+Task: Generate 10 words at random. For each word, generate a new word by adding or removing one letter.
+Word 1: cat
+New Word 1: chat
+
+Word 2: dog
+New Word 2: dong
+
+Word 3: chair
+New Word 3: hair
+
+Word 4: apple
+New Word 4: lapel
+
+Word 5: car
+New Word 5: card
+
+Word 6: sun
+New Word 6: fun
+
+Word 7: green
+New Word 7: greet
+
+Word 8: hat
+New Word 8: that
+
+Word 9: book
+New Word 9: look
+
+Word 10: run
+New Word 10: ruin
