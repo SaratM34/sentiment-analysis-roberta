@@ -1,64 +1,13 @@
-Task: Which exercises are best for reducing belly fat at home?
-Output:
+Provide a step-by-step guide on how to bake a chocolate cake.
+10. Design a logo for a new coffee shop called "Brew Haven."
 
-Russian Twists
-Bicycle Crunches
-Mountain Climbers
-Plank Jacks
-Burpees
-Jumping Jacks
-High Knees
-Mountain Climbers
-Flutter Kicks
-Running in Place
-Task: Converting 85 F to Celsius.
-Output: 85°F = 29.4°C
-
-Task: Sort the given list ascendingly.
-Example 1:
-List: [10, 92, 2, 5, -4, 92, 5, 101]
-Output: [-4, 2, 5, 5, 10, 92, 92, 101]
-
-Example 2:
-List: [9.99, 10, -5, -1000, 5e6, 999]
-Output: [-1000, -5, 9.99, 10, 999, 5000000.0]
-
-Task: Suggest a better and more professional rephrasing of the following sentence.
-Example 1:
-Sentence: This house is surprisingly not constructed very well, and you probably need more money to fix it after you buy it. If you ask me, I would suggest you to consider other candidates.
-Output: The construction of this house is surprisingly subpar, and additional expenses might be necessary for repairs after purchase. In my opinion, I recommend exploring other options.
-
-Example 2:
-Sentence: Just so you know, we did an experiment last week and found really surprising results - language model can improve itself!
-Output: Allow me to inform you that we conducted an experiment last week, yielding highly surprising results - the language model has the ability to enhance itself!
-
-Task: Generate 10 words at random. For each word, generate a new word by adding or removing one letter.
-Word 1: cat
-New Word 1: chat
-
-Word 2: dog
-New Word 2: dong
-
-Word 3: chair
-New Word 3: hair
-
-Word 4: apple
-New Word 4: lapel
-
-Word 5: car
-New Word 5: card
-
-Word 6: sun
-New Word 6: fun
-
-Word 7: green
-New Word 7: greet
-
-Word 8: hat
-New Word 8: that
-
-Word 9: book
-New Word 9: look
-
-Word 10: run
-New Word 10: ruin
+Write a short story beginning with the sentence "The wind howled through the desolate streets, carrying whispers of a long-forgotten tale."
+Create a workout routine for a beginner aiming to improve cardiovascular fitness.
+Translate the following English sentence into French: "I love to travel and explore new cultures."
+Write a persuasive essay arguing for the importance of recycling in modern society.
+Design a poster promoting a local charity event for animal welfare.
+Write a poem about the beauty of nature and its calming effects on the soul.
+Create a budget plan for a student living on a limited income.
+Research and compile a list of the top ten must-read books of all time.
+Write a script for a short comedic skit involving two friends planning a surprise party.
+Create a menu for a vegan restaurant, including appetizers, main courses, and desserts.
