@@ -1,13 +1,40 @@
-Provide a step-by-step guide on how to bake a chocolate cake.
-10. Design a logo for a new coffee shop called "Brew Haven."
+Task: Generate 10 words at random. For each word, generate a new word by adding or removing one letter.
+Example 1:
+Original word: cat
+New word: cart
 
-Write a short story beginning with the sentence "The wind howled through the desolate streets, carrying whispers of a long-forgotten tale."
-Create a workout routine for a beginner aiming to improve cardiovascular fitness.
-Translate the following English sentence into French: "I love to travel and explore new cultures."
-Write a persuasive essay arguing for the importance of recycling in modern society.
-Design a poster promoting a local charity event for animal welfare.
-Write a poem about the beauty of nature and its calming effects on the soul.
-Create a budget plan for a student living on a limited income.
-Research and compile a list of the top ten must-read books of all time.
-Write a script for a short comedic skit involving two friends planning a surprise party.
-Create a menu for a vegan restaurant, including appetizers, main courses, and desserts.
+Example 2:
+Original word: dog
+New word: dogs
+
+Example 3:
+Original word: car
+New word: card
+
+Example 4:
+Original word: run
+New word: runs
+
+Example 5:
+Original word: book
+New word: books
+
+Example 6:
+Original word: moon
+New word: moons
+
+Example 7:
+Original word: tree
+New word: trees
+
+Example 8:
+Original word: fish
+New word: fishes
+
+Example 9:
+Original word: hat
+New word: hate
+
+Example 10:
+Original word: pen
+New word: pened
